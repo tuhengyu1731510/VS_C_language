@@ -1,0 +1,2 @@
+﻿test.obj : error LNK2019: 无法解析的外部符号 printf，函数 main 中引用了该符号
+C:\Users\HP\OneDrive\计算机语言\Ccode\purple_test_c\7_21_1\x64\Debug\7_21_1.exe : fatal error LNK1120: 1 个无法解析的外部命令
