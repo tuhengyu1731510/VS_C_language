@@ -1,0 +1,4 @@
+﻿  Branch_cycle.c
+C:\Users\HP\OneDrive\计算机语言\Ccode\purple_test_c\7_23_2_Branch_cycle\7_23_2_Branch_cycle\Branch_cycle.c(35,2): warning C4013: “sacnf”未定义；假设外部返回 int
+Branch_cycle.obj : error LNK2019: 无法解析的外部符号 sacnf，函数 main 中引用了该符号
+C:\Users\HP\OneDrive\计算机语言\Ccode\purple_test_c\7_23_2_Branch_cycle\x64\Debug\7_23_2_Branch_cycle.exe : fatal error LNK1120: 1 个无法解析的外部命令
