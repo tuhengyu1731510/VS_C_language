@@ -1,0 +1,3 @@
+﻿  pointer3.c
+C:\Users\27430\OneDrive\计算机语言\Ccode\purple_test_c\8_10pointer\8_10pointer\pointer3.c(128,7): warning C4047: “初始化”:“int *”与“int (*)[10]”的间接级别不同
+  8_10pointer.vcxproj -> C:\Users\27430\OneDrive\计算机语言\Ccode\purple_test_c\8_10pointer\Debug\8_10pointer.exe
